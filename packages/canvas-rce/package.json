@@ -105,7 +105,7 @@
     "@instructure/ui-view": "7",
     "@instructure/uid": "7",
     "@sheerun/mutationobserver-shim": "^0.3.2",
-    "@tinymce/tinymce-react": "~3.8.4",
+    "@tinymce/tinymce-react": "~5.0.0",
     "aphrodite": "^2",
     "axios": "^0.21.1",
     "bloody-offset": "0.0.0",
@@ -131,7 +131,7 @@
     "redux-batch-middleware": "^0.2.0",
     "redux-thunk": "^2",
     "scroll-into-view": "https://github.com/bkirkby/scroll-into-view.git#588b0ced98eeecf84e6fb2074aa076e80b7cffab",
-    "tinymce": "^5",
+    "tinymce": "^7.0.0",
     "tinymce-a11y-checker": "^3.0.0"
   },
   "devDependencies": {
