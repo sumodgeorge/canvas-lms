@@ -5,6 +5,6 @@
   "author": "neme",
   "main": "./index.js",
   "dependencies": {
-    "tinymce": "^5"
+    "tinymce": "^7.0.0"
   }
 }
