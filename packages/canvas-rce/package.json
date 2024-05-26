@@ -117,7 +117,7 @@
     "i18nliner": "~0.2.0",
     "isomorphic-fetch": "2.2.1",
     "jquery": "https://github.com/instructure/jquery.git#1.7.2-with-AMD-and-CommonJS",
-    "js-beautify": "1",
+    "js-beautify": "1.14.10",
     "keycode": "^2",
     "lodash": "^4",
     "minimatch": "~3.0.4",
