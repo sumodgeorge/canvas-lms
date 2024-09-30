@@ -81,7 +81,7 @@
     "@instructure/ui-utils": "7",
     "@instructure/ui-view": "7",
     "axios": "^0.21.1",
-    "babel-plugin-inline-react-svg": "^1",
+    "babel-plugin-inline-react-svg": "^2.0.0",
     "change-case": "^3.0.1",
     "classnames": "^2.2.5",
     "esrever": "^0.2.0",
