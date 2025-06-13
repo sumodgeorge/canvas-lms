@@ -125,7 +125,7 @@
     "keycode": "^2",
     "lodash": "^4",
     "mathlive": "^0.77.0",
-    "minimatch": "~3.0.4",
+    "minimatch": "~10.0.2",
     "moment-timezone": "^0.5.45",
     "prop-types": "^15",
     "psl": "^1.1.0",
